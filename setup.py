@@ -5,7 +5,7 @@ version = "0.5"
 
 setup(name='collective.prettyalbum',
       version=version,
-      description="",
+      description="Album extension for collective.prettyphoto",
       long_description="",
       classifiers=[
           "Framework :: Plone",
